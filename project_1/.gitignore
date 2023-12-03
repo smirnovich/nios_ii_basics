@@ -1,0 +1,7 @@
+*
+!.gitignore
+!hardware/
+!software/
+!*.md
+!*.c
+!*.h
